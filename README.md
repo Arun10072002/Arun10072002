@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with JAVA programming language.
 - 📫 How to reach me: LinkedIn: [@Arun C](https://www.linkedin.com/in/arun-c-51aa74213/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love Games which is why I got interest in Coding and Developing games.
+- ⚡ Fun fact: My love for games is the reason I got interested in coding and development.
 
